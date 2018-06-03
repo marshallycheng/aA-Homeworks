@@ -1,0 +1,8 @@
+.splash img {
+  height: 500px;
+  width: 100%;
+}
+.navbar {
+  display: flex;
+  align-content: flex-start;
+}
